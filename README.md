@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tazeem Khan
 
-<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React.js | AI Enthusiast</h3>
+<h3 align="center">🚀 Java Full Stack Developer Java | Spring Boot | SQL | AWS | React.js | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tazeemk&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -65,7 +65,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="[https://leetcode.com/](https://leetcode.com/u/tazeemk329/)">
+<a href="https://leetcode.com/u/tazeemk329/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
