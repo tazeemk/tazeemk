@@ -1,98 +1,163 @@
-# 👋 Hi, I'm Tazeem Khan
+# 👋 Hey, I'm Tazeem Khan
 
-### Java Full Stack Developer Java 17| Spring Boot | Kafka | JWT | SQL | React.js
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot | React.js | AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tazeemk&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 1.2+ years experience as Java Full Stack Developer
-- 🏢 Worked at Simpana Technologies
-- 🔥 Experience in Java, Spring Boot, Hibernate, JPA, JWT, React.js
-- 📦 Developed and maintained enterprise applications
-- 🌱 Currently learning Microservices,AI and System Design
-- 🎯 Looking for Full Stack Developer opportunities
+* 💼 Java Full Stack Developer with 1.2+ years of professional experience
+* 🏢 Worked at Simpana Technologies Pvt Ltd
+* ⚙️ Experienced in developing and maintaining enterprise applications
+* 🔥 Strong knowledge of Java, Spring Boot, Hibernate, JPA, JWT, Microservices, React.js
+* 🌱 Currently learning  AWS, System Design, and AI Applications
+* 🎯 Looking for Java Full Stack Developer opportunities
 
 ---
 
-## 🚀 Spring Boot & Java Experience
+## ☕ Spring Boot & Java Experience
 
-- Built REST APIs using Spring Boot
-- Worked with Spring Security and JWT Authentication
-- Developed Batch Jobs using Spring Batch
-- Used Hibernate/JPA for database operations
-- Worked on MySQL and SQL queries
-- Experience with Maven and Git
+* Built scalable REST APIs using Spring Boot
+* Developed secure authentication systems using JWT & OAuth2
+* Worked with Spring Batch for large-scale data processing
+* Implemented Hibernate/JPA for database management
+* Developed backend services following layered architecture
+* Experience with Maven build management
+* Worked on enterprise Warehouse Management Systems (WMS)
+* Strong understanding of SQL queries and database optimization
+* Experience with Git, GitHub, Postman, and JBoss
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
+<p align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,maven,react,javascript,bootstrap,mongodb,docker" />
 
-### Frontend
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<p align="center">
 
-### Database
+☕ Java    🍃 Spring Boot    📦 Maven    🔐 JWT    🔑 OAuth2
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+⚡ Spring Batch    🗄 Hibernate/JPA    🌐 JSP & Servlet
 
-### Tools
+⚛ React.js    💻 JavaScript    🎨 Bootstrap
 
-Git | GitHub | Maven | Postman | VS Code | Eclipse
+🗃 SQL    🍃 MongoDB    🧪 JUnit
+
+🐳 Docker    🤖 Artificial Intelligence
+
+</p>
 
 ---
 
 ## 💻 Coding Profiles
 
-- LeetCode: https://leetcode.com/
-- HackerRank: https://hackerrank.com/
-- GitHub: https://github.com/tazeemk
+<p align="center">
 
----
+<a href="https://github.com/tazeemk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 🎯 Current Focus
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-- Learning Microservices
-- Spring Security
-- AWS Cloud
-- System Design
-- React Advanced Concepts
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
----
-
-## 🚀 Projects
-
-### Video Library Application
-
-- Spring Boot REST API
-- React Frontend
-- Authentication & Authorization
-- CRUD Operations
-
-### Warehouse Management System
-
-- Enterprise Java Application
-- JBoss Server
-- Spring Boot
-- Hibernate
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tazeemk&show_icons=true)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tazeemk&show_icons=true&theme=tokyonight"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tazeemk&layout=compact)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tazeemk&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img height="180em" src="https://streak-stats.demolab.com?user=tazeemk&theme=tokyonight"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+* 🚀 Building scalable Spring Boot applications
+* 🔐 Spring Security, JWT & OAuth2
+* ☁️ AWS Cloud Learning
+* 🏗️ Microservices Architecture
+* ⚛️ Advanced React.js Development
+* 🤖 AI Powered Applications & RAG Systems
+* 📚 System Design & Performance Optimization
+
+---
+
+## 🚀 Projects
+
+### 📚 Video Library Application
+
+* Spring Boot REST APIs
+* React.js Frontend
+* JWT Authentication
+* CRUD Operations
+* MySQL Database
+
+### 🏭 Warehouse Management System (WMS)
+
+* Enterprise Application
+* Spring Boot & Hibernate
+* JBoss Deployment
+* Inventory Management
+* SAP Data Integration
+
+### 🤖 AI RAG Project
+
+* AI-Powered Search
+* Java Backend
+* REST APIs
+* Retrieval Augmented Generation
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tazeemk&theme=tokyo-night"/>
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-- 📧 Email: yourmail@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 🌐 Portfolio: https://yourportfolio.com
+<p align="center">
+
+<a href="mailto:tazeemk329@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tazeem-khan-905b2735b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tazeemk">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
