@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-* 💼 Java Full Stack Developer with 1.2+ years of professional experience
+* 💼 Java Full Stack Developer with 2.5+ years of professional experience
 * 🏢 Worked at Simpana Technologies Pvt Ltd
 * ⚙️ Experienced in developing and maintaining enterprise applications
 * 🔥 Strong knowledge of Java, Spring Boot, Hibernate, JPA, JWT, Microservices, React.js
