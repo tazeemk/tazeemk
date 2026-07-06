@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tazeem Khan
 
-<h3 align="center">🚀 Java Full Stack Developer Java | Spring Boot | SQL | AWS | React.js | AI Enthusiast</h3>
+<h3 align="center">🚀 Java Full Stack Developer Java | Spring Boot | SQL | AWS | Angular / React.js | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tazeemk&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -11,11 +11,10 @@
 ## 👨‍💻 About Me
 
 * 💼 Java Full Stack Developer with 2.5+ years of professional experience
-* 🏢 Worked at Simpana Technologies Pvt Ltd
+* 🏢 Worked at Spil Technologies Pvt Ltd
 * ⚙️ Experienced in developing and maintaining enterprise applications
-* 🔥 Strong knowledge of Java, Spring Boot, Hibernate, JPA, JWT, Microservices, React.js
+* 🔥 Strong knowledge of Java, Spring Boot, Hibernate, JPA, JWT, Microservices, Angular ,TypeScript , React.js
 * 🌱 Currently learning  AWS, System Design, and AI Applications
-* 🎯 Looking for Java Full Stack Developer opportunities
 
 ---
 
@@ -47,9 +46,9 @@
 
 ⚡ Spring Batch    🗄 Hibernate/JPA    🌐 JSP & Servlet
 
-⚛ React.js    💻 JavaScript    🎨 Bootstrap
+🅰 Angular   💻 JavaScript   🔷 TypeScript   🎨 Bootstrap  ⚛ React.js
 
-🗃 SQL    🍃 MongoDB    🧪 JUnit
+☕ Java   🌱 Spring Boot   🗃 SQL   🍃 MongoDB   🧪 JUnit
 
 🐳 Docker    🤖 Artificial Intelligence
 
@@ -116,6 +115,7 @@
 * Enterprise Application
 * Spring Boot & Hibernate
 * JBoss Deployment
+* Angular
 * Inventory Management
 * SAP Data Integration
 
