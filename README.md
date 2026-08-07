@@ -10,8 +10,8 @@
 
 ## 👨‍💻 About Me
 
-* 💼 Java Full Stack Developer with 2.5+ years of professional experience
-* 🏢 Worked at Spil Technologies Pvt Ltd
+* 💼 Java Full Stack Developer with 2.6+ years of professional experience
+* 🏢 Worked at Taxtron Technologies Pvt. Ltd.
 * ⚙️ Experienced in developing and maintaining enterprise applications
 * 🔥 Strong knowledge of Java, Spring Boot, Hibernate, JPA, JWT, Microservices, Angular ,TypeScript , React.js
 * 🌱 Currently learning  AWS, System Design, and AI Applications
